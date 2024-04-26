@@ -26,6 +26,6 @@ We reserve the right to update or change our Privacy Policy at any time. Any cha
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [contact@example.com](mailto:contact@example.com).
+If you have any questions or concerns about this Privacy Policy, please contact us at [hello@chethiya.me](mailto:hello@chethiya.me).
 
-Last updated: [Date of Last Update]
+Last updated: Sat 27 Apr 2024
