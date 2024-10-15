@@ -18,7 +18,7 @@ DeedDiary is a Chrome extension designed to help you remember and celebrate the 
 2. Click on the "Add to Chrome" button.
 3. Once installed, DeedDiary will automatically replace your new tab page.
 
-[![Download DeedDiary from Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/deeddiary/your-extension-id)
+[![Download DeedDiary from Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/deeddiary/defbebpcmhejgjjoedokohipfljpaidb)
 
 ## Usage
 
